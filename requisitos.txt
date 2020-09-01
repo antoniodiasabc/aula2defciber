@@ -1,4 +1,5 @@
 O sistema deve fazer autenticacao de usuario.
 O sistema deve alocar o carro voador mais proximo do usuario.
 O sistema deve possibilitar a solicitacao de uma viagem por aplicativo.
+O sistema deve ser criptografdo com 64 bits
 
